@@ -1,18 +1,26 @@
-<h1 align="center"> Jenifer Queixa - 🐍🔷</h1>
+<h1 align="center"> Bem-vindo(a) ao meu Repositório! - 🐍🔷</h1>
 
-<p align="center">Bem-vinda ao meu repositório! Aqui você encontrará projetos e aprendizados relacionados às linguagens Python e C#, e de vez em quando HTML .</p>
+<p align="center">Aqui, compartilho projetos e conhecimentos relacionados às linguagens Python e C#, com pitadas de HTML de vez em quando.
+</p>
+
 
 ## Índice
 - 🙋‍♀️ [Sobre Mim](#sobre-mim)
-- 💡 [Projetos Destacados](#projetos-destacados)
+- 💡 [Projetos Pessoais](#projetos-pessoais)
 - ▶️ [Como Rodar os Projetos](#como-rodar-os-projetos)
 - 📬 [Contato](#contato)
 
 ## Sobre Mim
 
-Olá! Sou Jenifer Queixa, uma entusiasta em busca de conhecimento no mundo da programação. Como iniciante nesse universo incrível, estou empolgada para aprender, explorar e compartilhar cada passo da minha jornada. Meu foco é nas linguagens Python e C#, e estou emocionada em transformar linhas de código em projetos criativos.
+<div align="center">
+  <h2>👋 Olá, sou a Jenifer Queixa!</h2>
+  <p>Sou uma entusiasta em busca de conhecimento no vasto universo da programação.</p>
+  <p>Como iniciante nesse emocionante campo, estou comprometida em compartilhar cada etapa da minha jornada.</p>
+  <p>Tenho um foco especial nas linguagens Python e C#, e estou ansiosa para transformar linhas de código em projetos criativos.</p>
+</div>
 
-## Projetos Destacados
+
+## Projetos Pessoais
 
 - 🎮 Trilha do Cofrinho: Aventura Financeira para Crianças
 
