@@ -15,6 +15,8 @@ Olá! Sou Jenifer Queixa, uma entusiasta em busca de conhecimento no mundo da pr
 ## Projetos Destacados
 
 - 🎮 Trilha do Cofrinho: Aventura Financeira para Crianças
+  ```bash
+   trilha_do_cofrinho.py
 
 
 ## Como Rodar os Projetos
