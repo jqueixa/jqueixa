@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center"> Jenifer Queixa - 🐍🔷</h1>
 
-<!--
-**jqueixa/jqueixa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Bem-vinda ao meu repositório de portfólio! Aqui você encontrará projetos e aprendizados relacionados às linguagens Python e C# e de vez em quando HTML .</p>
 
-Here are some ideas to get you started:
+## Índice
+- 🙋‍♀️ [Sobre Mim](#sobre-mim)
+- 💡 [Projetos Destacados](#projetos-destacados)
+- ▶️ [Como Rodar os Projetos](#como-rodar-os-projetos)
+- 📬 [Contato](#contato)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+Olá! Sou Jenifer Queixa, uma entusiasta em busca de conhecimento no mundo da programação. Como iniciante nesse universo incrível, estou empolgada para aprender, explorar e compartilhar cada passo da minha jornada. Meu foco é nas linguagens Python e C#, e estou emocionada em transformar linhas de código em projetos criativos.
+
+## Projetos Destacados
+
+- 🎮 Trilha do Cofrinho: Aventura Financeira para Crianças
+
+
+## Como Rodar os Projetos
+
+Cada projeto tem seu próprio diretório com um arquivo `README` contendo instruções detalhadas sobre como executar o projeto.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/jeniferqueixa)
+- ✉️ Email: jeniferqueixa@gmail.com
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discutir colaborações e oportunidades.
+
+
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF Animado">
+</p>
+
+
