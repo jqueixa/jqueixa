@@ -23,7 +23,7 @@ Cada projeto tem seu próprio diretório com um arquivo `README` contendo instru
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/jeniferqueixa)
+- [LinkedIn]([https://www.linkedin.com/in/jeniferqueixa](https://www.linkedin.com/in/jenifer-queixa-8639a718b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaLy9ulwgSDWxlp51%2FnBR2g%3D%3D)
 - ✉️ Email: jeniferqueixa@gmail.com
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discutir colaborações e oportunidades.
