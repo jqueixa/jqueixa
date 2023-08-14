@@ -15,7 +15,8 @@ Olá! Sou Jenifer Queixa, uma entusiasta em busca de conhecimento no mundo da pr
 ## Projetos Destacados
 
 - 🎮 Trilha do Cofrinho: Aventura Financeira para Crianças
-   [Link para o Repositório](https://github.com/ jqueixa/trilha_do_cofrinho)
+
+   [Link para o Repositório](https://github.com/jqueixa/trilha_do_cofrinho)
 
 
 ## Como Rodar os Projetos
