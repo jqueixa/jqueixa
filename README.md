@@ -1,6 +1,6 @@
 <h1 align="center"> Jenifer Queixa - 🐍🔷</h1>
 
-<p align="center">Bem-vinda ao meu repositório de portfólio! Aqui você encontrará projetos e aprendizados relacionados às linguagens Python e C# e de vez em quando HTML .</p>
+<p align="center">Bem-vinda ao meu repositório! Aqui você encontrará projetos e aprendizados relacionados às linguagens Python e C#, e de vez em quando HTML .</p>
 
 ## Índice
 - 🙋‍♀️ [Sobre Mim](#sobre-mim)
