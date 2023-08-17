@@ -1,28 +1,24 @@
-<h1 align="center"> Bem-vindo(a) ao meu Repositório! - 🐍🔷</h1>
-
-<p align="center"> Aqui, você encontrará uma mistura de projetos e insights relacionados às linguagens Python e C#, com toques de HTML de vez em quando.</p>
-
-## Índice
-- 🙋‍♀️ [Sobre Mim](#sobre-mim)
-- 💡 [Projetos Pessoais](#projetos-pessoais)
-- ▶️ [Como Rodar os Projetos](#como-rodar-os-projetos)
-- 📬 [Contato](#contato)
-
-## Sobre Mim
-
 <div align="center">
-  <h3>👋 Olá, eu sou a Jenifer Queixa!</h3>
-  <p>Explorando o vasto universo da programação e compartilhando minha jornada.</p>
-  <p>Tenho um foco especial nas linguagens Python e C#, e estou ansiosa para transformar linhas de código em projetos criativos e inovadores.</p>
+  <h1>👋 Olá! Eu sou [Jenifer Queixa]</h1>
 </div>
+
+Sou uma apaixonada por tecnologia, sempre em busca de desafios e oportunidades para aprender e criar.
+
+- 🌱 Estou mergulhando no mundo da programação e dando vida ao meu próprio projeto: a **"Trilha do Cofrinho"**, um joguinho de educação financeira para crianças.
+
 
 ## Projetos Pessoais
 
 - 🎮 Trilha do Cofrinho: Aventura Financeira para Crianças
 
-     [Ver Projeto](https://github.com/jqueixa/trilha_do_cofrinho)
+ O projeto **"Trilha do Cofrinho"** é um joguinho educativo que estou criando para ajudar crianças a aprenderem sobre finanças de forma divertida e interativa.
 
-## Como Rodar os Projetos
+- 🌟 **Objetivos de Aprendizado**: Estou empenhada em ensinar noções básicas de poupança, metas e planejamento financeiro de maneira envolvente e acessível.
+- 🎉 **Status**: O projeto está em sua fase inicial, onde estou dando vida aos conceitos e designs para proporcionar uma experiência única às crianças.
+
+     [Saiba Mais Sobre o Projeto](https://github.com/jqueixa/trilha_do_cofrinho)
+
+## Caso Queira Testar
 
 Cada projeto tem seu próprio diretório com um detalhado arquivo `README`, fornecendo instruções passo a passo sobre como executar o projeto em sua máquina.
 
@@ -36,6 +32,3 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para 
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF Animado">
 </p>
-
-
-
