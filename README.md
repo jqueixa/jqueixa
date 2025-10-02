@@ -9,12 +9,6 @@
 :handshake: Aberto a colaborações e novos desafios  
 :seedling: Em constante evolução como desenvolvedor  
 
-<!--### :mailbox_with_mail: Onde me encontrar--->
-<!--[![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)--->
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-b0e0e6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)--->
-<!--[![Telegram](https://img.shields.io/badge/Telegram-ffe4b5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seutelegram)--->
-<!--[![WhatsApp](https://img.shields.io/badge/WhatsApp-98fb98?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumerowhatsapp)-->
-
 ---
 
 ### :bar_chart: Estatísticas no GitHub
