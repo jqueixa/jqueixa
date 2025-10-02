@@ -1,34 +1,38 @@
-<div align="center">
-  <h1>👋 Olá! Eu sou [Jenifer Queixa]</h1>
-</div>
-
-Sou uma apaixonada por tecnologia, sempre em busca de desafios e oportunidades para aprender e criar.
-
-- 🌱 Estou mergulhando no mundo da programação e dando vida ao meu próprio projeto: a **"Trilha do Cofrinho"**, um joguinho de educação financeira para crianças.
 
 
-## Projetos Pessoais
+<h1 align="center"> Oie, prazer eu sou a Jeni! 🤍</h1>
 
-- 🎮 Trilha do Cofrinho: Aventura Financeira para Crianças
 
- O projeto **"Trilha do Cofrinho"** é um joguinho educativo que estou criando para ajudar crianças a aprenderem sobre finanças de forma divertida e interativa.
+### :rocket: Sobre mim
+:snake: Estudando e desenvolvendo projetos em **Python**  
+:books: Sempre aprendendo e melhorando minhas habilidades  
+:handshake: Aberto a colaborações e novos desafios  
+:seedling: Em constante evolução como desenvolvedor  
 
-- 🌟 **Objetivos de Aprendizado**: Estou empenhada em ensinar noções básicas de poupança, metas e planejamento financeiro de maneira envolvente e acessível.
-- 🎉 **Status**: O projeto está em sua fase inicial, onde estou dando vida aos conceitos e designs para proporcionar uma experiência única às crianças.
+<!--### :mailbox_with_mail: Onde me encontrar--->
+<!--[![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)--->
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-b0e0e6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)--->
+<!--[![Telegram](https://img.shields.io/badge/Telegram-ffe4b5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seutelegram)--->
+<!--[![WhatsApp](https://img.shields.io/badge/WhatsApp-98fb98?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumerowhatsapp)-->
 
-     [Saiba Mais Sobre o Projeto](https://github.com/jqueixa/trilha_do_cofrinho)
+---
 
-## Caso Queira Testar
-
-Cada projeto tem seu próprio diretório com um detalhado arquivo `README`, fornecendo instruções passo a passo sobre como executar o projeto em sua máquina.
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/jenifer-queixa-8639a718b)
-- ✉️ Email: jeniferqueixa@gmail.com
-
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discussões sobre colaborações e oportunidades.
-
+### :bar_chart: Estatísticas no GitHub
 <p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF Animado">
+  <img src="https://github-readme-stats.vercel.app/api?username=jqueixa&show_icons=true&theme=calm_pink" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqueixa&layout=compact&theme=calm_pink" height="165"/>
+</p>
+
+---
+
+### :fire: Sequência de Contribuições
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jqueixa&theme=soft-green&hide_border=true" />
+</p>
+
+---
+
+### :chart_with_upwards_trend: Gráfico de Atividades
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jqueixa&theme=pastel" />
 </p>
