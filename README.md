@@ -6,7 +6,7 @@
 ### :rocket: Sobre mim 
 :books: Sempre aprendendo e melhorando minhas habilidades  
 :handshake: Aberto a colaborações e novos desafios  
-:seedling: Em constante evolução como desenvolvedor  
+
 
 ---
 
