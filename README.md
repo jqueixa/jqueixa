@@ -3,8 +3,7 @@
 <h1 align="center"> Oie, prazer eu sou a Jeni! 🤍</h1>
 
 
-### :rocket: Sobre mim
-:snake: Estudando e desenvolvendo projetos em **Python**  
+### :rocket: Sobre mim 
 :books: Sempre aprendendo e melhorando minhas habilidades  
 :handshake: Aberto a colaborações e novos desafios  
 :seedling: Em constante evolução como desenvolvedor  
